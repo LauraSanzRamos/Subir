@@ -1,7 +1,6 @@
 /* Escribe un programa que pida 10 números por teclado, los almacene en un array y que luego muestre el máximo valor, el mínimo y las posiciones que ocupan en el array.*/
 
 import java.util.Scanner;
-
 public class Array2 {
 
 	public static void main(String[] args) {
