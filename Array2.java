@@ -18,7 +18,6 @@ public class Array2 {
 		for(int i=0; i<10; i++){    
 		System.out.println("Nombre?");
 		personas [i]=scan.nextLine();
-		
 		System.out.println("Di cual es el número:" + contador); 
 		numeros[i] = scan.nextDouble(); 
 		
